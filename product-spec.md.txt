@@ -1,0 +1,19 @@
+# Product Specification
+
+## Input
+
+- Job description
+- Personal experience
+
+## Output
+
+- Key job requirements
+- Matching experience
+- Missing evidence
+- Resume optimization suggestions
+
+## First Test Cases
+
+- Feishu Product Marketing Intern
+- Insta360 Marketing Intern
+- Anker GTM Intern
